@@ -1,0 +1,4 @@
+docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
+"docker ps"
+"docker exec -it <container_name_or_id> bash"
+"rabbitmq-plugins enable rabbitmq_amqp1_0"
