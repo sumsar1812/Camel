@@ -1,0 +1,16 @@
+Black:3
+Red:2
+Green:4
+Yellow:9
+Blue:2
+Black:5
+Blue:3
+Red:10
+Red:12
+Green:11
+Green:13
+Lime:4
+Lime:2
+Orange:4
+White:2
+White:4
